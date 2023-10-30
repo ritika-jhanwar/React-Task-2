@@ -54,13 +54,13 @@ export default function Calculator() {
             </div>
             <div
               className="grid-item divide sym"
-              onClick={() => handleButtonClick("÷")}
+              onClick={() => handleButtonClick("/")}
             >
               ÷
             </div>
             <div
               className="grid-item multiply sym"
-              onClick={() => handleButtonClick("×")}
+              onClick={() => handleButtonClick("*")}
             >
               ×
             </div>

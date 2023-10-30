@@ -47,6 +47,7 @@
 }
 .grid-item:hover{
     background-color: #383D4F;
+    cursor: pointer;
 }
 .bot-left{
     border-bottom-left-radius: 30px;
